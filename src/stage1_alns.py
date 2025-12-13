@@ -76,5 +76,4 @@ def ALNS_SA_TSP(
 
         T *= alpha
         k += 1
-
     return S_star
