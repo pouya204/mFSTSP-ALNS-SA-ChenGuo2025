@@ -20,5 +20,4 @@ def segment_route(route, coords, LE):
 
         segments.append(route[start:end + 1])
         start = end
-
     return segments
